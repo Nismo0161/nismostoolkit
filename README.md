@@ -7,3 +7,4 @@ Whether you're exploring new dimensions, battling powerful bosses, or delving in
 
 *** this is more of a test mod rather than anything more serious
 
+1.19.2 FORGE
